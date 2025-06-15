@@ -1,0 +1,20 @@
+# Mood Tracker 🧠
+
+A simple command-line mood journal application built with Python.  
+Users can record their daily mood and a note, then view mood statistics in a bar chart.
+
+---
+
+## Features
+
+- Track daily mood (Happy, Sad, Stressed, Tired)
+- Add a short journal note
+- View mood distribution with bar chart (Matplotlib)
+- Stores data in a local `mood_data.json` file
+
+---
+
+## How to Run
+
+1. Clone or download this repo  
+2. Install required library:
